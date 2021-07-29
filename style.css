@@ -1,0 +1,22 @@
+.bg-slider{
+    background-color: rgba(38, 70, 83, 1);
+}
+.text-color{
+    color: white;
+}
+.btn-purchase{
+    background-color: rgba(231, 111, 81, 1);
+    color: white;
+}
+span{
+    color: rgba(231, 111, 81, 1);
+}
+#black-white{
+    filter: grayscale();
+}
+.starts{
+    color: rgba(231, 111, 81, 1);
+}
+.regina-color{
+    color: rgba(35, 166, 240, 1);
+}
